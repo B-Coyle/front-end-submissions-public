@@ -22,9 +22,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Bridgett Coyle
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/B-Coyle/node-server-m4prework)
+* [Annotated Express server file](https://github.com/B-Coyle/trapper-keeper-api/blob/master/app.js)
+* [Promise Practice Exercises](https://repl.it/@B_Coyle/Prework-Promises)
 
 ## Brennan Duffey
 
